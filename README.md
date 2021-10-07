@@ -6,6 +6,5 @@ This challenge was a code refactor of the html and css files of the web page bel
 ## Website URL
 https://ebtaterbug.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
 
-![](./assets/images/HoriseonScreenshot.png)
-![](./assets/images/HoriseonScreenshot2.png)
-
+<img src="./assets/images/HoriseonScreenshot.png" style="max-width:100%;" />
+<img src="./assets/images/HoriseonScreenshot2.png" style="max-width:100%;" />
