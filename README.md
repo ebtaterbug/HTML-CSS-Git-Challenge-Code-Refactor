@@ -7,5 +7,5 @@ This challenge was a code refactor of the html and css files of the web page bel
 https://ebtaterbug.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
 
 <img src="./assets/images/HoriseonScreenshot.png">
-
+<img src="./assets/images/HoriseonScreenshot2.png">
 
